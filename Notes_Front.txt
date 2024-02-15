@@ -1,0 +1,12 @@
+Modules:
+
+Axios - Library for making web calls.
+Bulma - Styles.
+Fortawesome - Icons.
+Node-sass - HTML styles.
+Moment - Library for formatting dates.
+Rbx -Library with Bulma components
+ 
+React-burger-menu - Menu.
+React-router-dom - Routing.
+React-quill - Text editor.

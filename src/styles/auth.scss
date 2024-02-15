@@ -1,0 +1,8 @@
+@import "./custom_colors";
+
+.auth{
+    background-color: $custom-blue;
+    
+    // CALC - Occupy 100% of the screen minus 70px of the navbar.
+    height: calc(100% - 70px);  
+}
